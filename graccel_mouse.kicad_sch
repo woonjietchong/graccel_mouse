@@ -2954,7 +2954,7 @@
     (property "Value" "USB_B_Micro" (id 1) (at 264.16 128.27 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521" (id 2) (at 256.54 120.65 0)
+    (property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001" (id 2) (at 256.54 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 256.54 120.65 0)
@@ -4163,7 +4163,7 @@
       (reference "FB1") (unit 1) (value "120R") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/2ac05af4-47c3-4f40-a6cd-c2ab35e2388b"
-      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Wuerth_629105150521")
+      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex_47346-0001")
     )
     (path "/cb370592-4c62-48a6-8f61-446924da7035"
       (reference "J2") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
